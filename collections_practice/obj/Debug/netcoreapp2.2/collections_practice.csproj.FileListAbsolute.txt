@@ -1,0 +1,11 @@
+/Users/melissaa.martinez/Desktop/Csharp_Stack/collections_practice/bin/Debug/netcoreapp2.2/collections_practice.deps.json
+/Users/melissaa.martinez/Desktop/Csharp_Stack/collections_practice/bin/Debug/netcoreapp2.2/collections_practice.runtimeconfig.json
+/Users/melissaa.martinez/Desktop/Csharp_Stack/collections_practice/bin/Debug/netcoreapp2.2/collections_practice.runtimeconfig.dev.json
+/Users/melissaa.martinez/Desktop/Csharp_Stack/collections_practice/bin/Debug/netcoreapp2.2/collections_practice.dll
+/Users/melissaa.martinez/Desktop/Csharp_Stack/collections_practice/bin/Debug/netcoreapp2.2/collections_practice.pdb
+/Users/melissaa.martinez/Desktop/Csharp_Stack/collections_practice/obj/Debug/netcoreapp2.2/collections_practice.csprojAssemblyReference.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/collections_practice/obj/Debug/netcoreapp2.2/collections_practice.csproj.CoreCompileInputs.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/collections_practice/obj/Debug/netcoreapp2.2/collections_practice.AssemblyInfoInputs.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/collections_practice/obj/Debug/netcoreapp2.2/collections_practice.AssemblyInfo.cs
+/Users/melissaa.martinez/Desktop/Csharp_Stack/collections_practice/obj/Debug/netcoreapp2.2/collections_practice.dll
+/Users/melissaa.martinez/Desktop/Csharp_Stack/collections_practice/obj/Debug/netcoreapp2.2/collections_practice.pdb
